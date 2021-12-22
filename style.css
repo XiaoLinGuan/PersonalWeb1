@@ -1,0 +1,8 @@
+/* CSS Style Sheet for my personal website */
+body {
+	background: rgba(0, 128, 0, 0.1)
+}
+
+#header {
+	background: blue
+}
