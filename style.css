@@ -1,8 +1,13 @@
 /* CSS Style Sheet for my personal website */
 body {
-	background: rgba(0, 128, 0, 0.1)
+	background: rgba(0, 128, 0, 0.1);
+	font-family: "Calibri, sans-serif";
 }
 
 #header {
-	background: blue
+	background: grey
+}
+
+#contactInfo {
+	background: cornflowerblue
 }
